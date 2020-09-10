@@ -10,5 +10,8 @@ Images/Links
 Recommendations for a successful kickstarter campaign for plays:
 ---
 *staying under $4,000 goalof producing a play but preferably closer towards the median of $2,000 goal 
+---
 *launching kickstarter campaign in May 
+---
 *Keeping kickstarter goal around $2k (median mark for successful kickstarter play campaigns)
+---
