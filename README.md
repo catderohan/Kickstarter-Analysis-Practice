@@ -3,11 +3,11 @@ Performing Analysis on Kickstarter Data to Uncover Trends
  
 ### Recommendations for a successful kickstarter campaign for plays:
 
-* staying under $4,000 goal of producing a play
-* launching kickstarter campaign in May 
+* Staying under $4,000 goal of producing a play
+* Launching kickstarter campaign in May 
 * Keeping kickstarter goal around $2k (median mark for successful kickstarter play campaigns)
 
-### Images & Links
+#### Images & Links
 
 * ![parentcategoryoutcomechart](path/to/parentcategoryoutcomechart.png)
 * ![subcategoryoutcomechart](path/to/subcategoryoutcomechart.png)
