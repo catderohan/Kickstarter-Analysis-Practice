@@ -9,10 +9,10 @@ Performing Analysis on Kickstarter Data to Uncover Trends
 
 #### Images & Links
 
-![](parentcategoryoutcomechart.png)
+![ParentCategorybyOutcome](parentcategoryoutcomechart.png)
 
-![](subcategoryoutcomechart.png)
+![Subcategory By Outcome](subcategoryoutcomechart.png)
 
-![](Outcomesbymonth.png)
+![Outcomes by Month](Outcomesbymonth.png)
 
 [kickstarter-analysis](docs/kickstarter-analysis.xlsx)
