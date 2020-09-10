@@ -15,4 +15,4 @@ Performing Analysis on Kickstarter Data to Uncover Trends
 
 ![](Outcomesbymonth.png)
 
-[kickstarter-analysis](kickstarter-analysis.xlxs)
+[kickstarter-analysis](docs/kickstarter-analysis.xlsx)
