@@ -10,7 +10,7 @@ Performing Analysis on Kickstarter Data to Uncover Trends
 #### Images & Links
 
 Parent Category by Outcome
-![](images/parentcategoryoutcomechart.png)
+![](images/parentcategoryoutcomechart3.png)
 
 Subcategory by Outcome
 ![](images/subcategoryoutcomechart.png)
@@ -19,5 +19,4 @@ Outcomes by Month
 
 ![](images/Outcomesbymonth.png)
 
-Excel Analysis
-[](docs/kickstarter-analysis.xlsx)
+Excel Analysis [](docs/kickstarter-analysis.xlsx)
